@@ -30,5 +30,6 @@ Ada Lovelave was considered the first computer programmer.
 Who is the "Turing machine" named after?
 
 ```
+The Turing Machine was invented in 1936 and was named after Alan Turing.
 
 ```
