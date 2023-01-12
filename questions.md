@@ -15,7 +15,7 @@ ES6 refers to the ECMA script programming language and its version 6, which is a
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+Google
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
