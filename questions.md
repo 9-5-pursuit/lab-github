@@ -9,7 +9,7 @@ What year did Brendan Eich create JavaScript?
 What does "ES6" stand for?
 
 ```
-ES6 refers to the ECMA script programming language and its version 6, which is also a standardized name for JavaScript.git 
+ES6 refers to the ECMA script programming language and its version 6, which is also a standardized name for JavaScript. 
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
