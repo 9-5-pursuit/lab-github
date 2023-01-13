@@ -27,5 +27,5 @@ Ada Lovelace.
 Who is the "Turing machine" named after?
 
 ```
-
+It is named after Alan Turing.
 ```
