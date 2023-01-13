@@ -27,5 +27,5 @@ What English mathematician and writer is often regarded as the first computer pr
 Who is the "Turing machine" named after?
 
 ```
-
+"Turing machines, first described by Alan Turing in Turing 1936–7, are simple abstract computational devices intended to help investigate the extent and limitations of what can be computed. Turing’s ‘automatic machines’, as he termed them in 1936, were specifically devised for the computing of real numbers. They were first named ‘Turing machines’ by Alonzo Church in a review of Turing’s paper (Church 1937). Today, they are considered to be one of the foundational models of computability and (theoretical) computer science.[1]" - https://plato.stanford.edu/entries/turing-machine/
 ```
