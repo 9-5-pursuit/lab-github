@@ -27,5 +27,5 @@ Ada Lovelace is the first computer programmer.
 Who is the "Turing machine" named after?
 
 ```
-
+The "Turing machine" is named after Alan Turing.
 ```
