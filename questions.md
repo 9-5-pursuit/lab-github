@@ -27,5 +27,5 @@ Ada Lovelace
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing, a queer English Mathematician. Helped shorten World War 2 by 2 years by cracking the German Enigma Cipher (and suffered persecution from the British Government due to his orientation, historical badass)
 ```
