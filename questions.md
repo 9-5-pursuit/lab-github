@@ -21,7 +21,7 @@ Google's most famous motto: “Don't be evil.” If you know anything about Goog
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-Ada Lovelace
+The name is Ada Lovelace
 ```
 
 Who is the "Turing machine" named after?
