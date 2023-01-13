@@ -9,7 +9,7 @@ It was created in 1995.
 What does "ES6" stand for?
 
 ```
-
+ES6 stands for ECMAScript.
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
