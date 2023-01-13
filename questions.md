@@ -15,7 +15,7 @@ What does "ES6" stand for?
 What company famously used the phrase "Don't be evil" in their code of conduct?
 
 ```
-
+"Silicon Valley is full of lofty ideals. But few are as lofty as Google's most famous motto: “Don't be evil.” If you know anything about Google's culture, you've probably heard those three words. They're catchy." - https://www.vox.com/recode/2021/2/16/22280502/google-dont-be-evil-land-of-the-giants-podcast
 ```
 
 What English mathematician and writer is often regarded as the first computer programmer?
