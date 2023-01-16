@@ -9,7 +9,7 @@ What year did Brendan Eich create JavaScript?
 What does "ES6" stand for?
 
 ```
-ECMAScript 6 AKA JavaScript
+ECMAScript 6 AKA JavaScript.
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
