@@ -27,5 +27,5 @@ Ada Lovelace is the english mathematician
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Turing
 ```
