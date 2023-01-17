@@ -21,7 +21,7 @@ Google used to have the phrase "Don't be evil" in their code of conduct, but hav
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-Ada Lovelace is currently celebrated as the first programer. 
+
 ```
 
 Who is the "Turing machine" named after?
