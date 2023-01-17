@@ -27,5 +27,5 @@ Ada Lovelace is currently celebrated as the first programer.
 Who is the "Turing machine" named after?
 
 ```
-Alan Turning
+The machine was named after Alan Turning.
 ```
